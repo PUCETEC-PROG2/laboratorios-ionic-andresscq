@@ -1,0 +1,13 @@
+.form-container {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 32px;
+}
+
+.form-field {
+    width: 100%;
+}
