@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 
-- **Nombre:** Steven Jácome
+- **Nombre:** Andres Criollo
 - **Carrera:** PUCETEC Desarrollo de Software
 - **Fecha de inicio:** 13 de junio de 2026
 
